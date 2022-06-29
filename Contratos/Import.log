@@ -1,0 +1,64 @@
+﻿Timestamp	Filename	Error	Message
+2022-06-29 13:27:46.152 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of script steps from clipboard started
+2022-06-29 13:27:46.162 +0200	Agafa_dades	0	script steps imported : 1
+2022-06-29 13:27:46.162 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:27:46.578 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of script steps from clipboard started
+2022-06-29 13:27:46.595 +0200	Agafa_dades	0	script steps imported : 1
+2022-06-29 13:27:46.595 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:27:46.802 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of script steps from clipboard started
+2022-06-29 13:27:46.813 +0200	Agafa_dades	0	script steps imported : 1
+2022-06-29 13:27:46.815 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:27:46.978 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of script steps from clipboard started
+2022-06-29 13:27:46.978 +0200	Agafa_dades	0	script steps imported : 1
+2022-06-29 13:27:46.996 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:30:03.069 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of script steps from clipboard started
+2022-06-29 13:30:03.069 +0200	Actualitza_Dades	0	script steps imported : 1
+2022-06-29 13:30:03.078 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:32:45.729 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of script steps from clipboard started
+2022-06-29 13:32:45.745 +0200	Actualitza_Dades	0	script steps imported : 1
+2022-06-29 13:32:45.745 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:32:46.144 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of script steps from clipboard started
+2022-06-29 13:32:46.154 +0200	Actualitza_Dades	0	script steps imported : 1
+2022-06-29 13:32:46.154 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:32:46.756 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of script steps from clipboard started
+2022-06-29 13:32:46.756 +0200	Actualitza_Dades	0	script steps imported : 1
+2022-06-29 13:32:46.766 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:32:47.426 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of script steps from clipboard started
+2022-06-29 13:32:47.436 +0200	Actualitza_Dades	0	script steps imported : 1
+2022-06-29 13:32:47.436 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:36:30.417 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of scripts from clipboard started
+2022-06-29 13:36:30.425 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Script “Loop” imported as “Loop 2” since a script named “Loop” already exists.
+2022-06-29 13:36:30.425 +0200	Loop 2	0	script steps imported : 12
+2022-06-29 13:36:30.425 +0200	Contratos_Safety_BOQUILLES.fmp12	0	scripts imported : 1
+2022-06-29 13:36:30.425 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:39:17.456 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of script steps from clipboard started
+2022-06-29 13:39:17.466 +0200	Loop	0	script steps imported : 1
+2022-06-29 13:39:17.473 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:39:54.543 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of script steps from clipboard started
+2022-06-29 13:39:54.553 +0200	Loop	0	script steps imported : 1
+2022-06-29 13:39:54.553 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:40:00.572 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of script steps from clipboard started
+2022-06-29 13:40:00.585 +0200	Actualitza	0	script steps imported : 1
+2022-06-29 13:40:00.587 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:40:30.002 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import of scripts from clipboard started
+2022-06-29 13:40:30.012 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Script “Loop” imported as “Loop 2” since a script named “Loop” already exists.
+2022-06-29 13:40:30.012 +0200	Loop 2	0	script steps imported : 9
+2022-06-29 13:40:30.012 +0200	Contratos_Safety_BOQUILLES.fmp12	0	scripts imported : 1
+2022-06-29 13:40:30.022 +0200	Contratos_Safety_BOQUILLES.fmp12	0	Import completed
+2022-06-29 13:48:33.528 +0200	Contratos_Safety_Diposit.fmp12	0	Import of scripts from file “Contratos_Safety_BOQUILLES_OK.fmp12” started
+2022-06-29 13:48:33.534 +0200	Captura_dades::1::Set Variable	106	Table referred to in the calculation “Contratos_Safety_BOQUILLES::NUM CONTRATO” is missing.
+2022-06-29 13:48:33.534 +0200	Captura_dades::2::Set Variable	106	Table referred to in the calculation “Contratos_Safety_BOQUILLES::COD. CLI” is missing.
+2022-06-29 13:48:33.534 +0200	Captura_dades::3::Set Variable	106	Table referred to in the calculation “Contratos_Safety_BOQUILLES::ESTABLECIMIENTO” is missing.
+2022-06-29 13:48:33.534 +0200	Captura_dades::4::Set Variable	106	Table referred to in the calculation “Contratos_Safety_BOQUILLES::NUM.SISTEMA” is missing.
+2022-06-29 13:48:33.534 +0200	Captura_dades::5::Set Variable	106	Table referred to in the calculation “Contratos_Safety_BOQUILLES::DESCR. ZONA” is missing.
+2022-06-29 13:48:33.544 +0200	Captura_dades	0	script steps imported : 5
+2022-06-29 13:48:33.544 +0200	Loop::4::If	106	Table referred to in the calculation “IsEmpty(Contratos_Safety_BOQUILLES::ESTABLECIMIENTO)” is missing.
+2022-06-29 13:48:33.544 +0200	Loop	0	script steps imported : 11
+2022-06-29 13:48:33.544 +0200	Actualitza::2::Set Field	102	Field “NUM CONTRATO” missing.
+2022-06-29 13:48:33.544 +0200	Actualitza::3::Set Field	102	Field “COD. CLI” missing.
+2022-06-29 13:48:33.554 +0200	Actualitza::4::Set Field	102	Field “ESTABLECIMIENTO” missing.
+2022-06-29 13:48:33.554 +0200	Actualitza::5::Set Field	102	Field “NUM.SISTEMA” missing.
+2022-06-29 13:48:33.554 +0200	Actualitza::6::Set Field	102	Field “DESCR. ZONA” missing.
+2022-06-29 13:48:33.554 +0200	Actualitza	0	script steps imported : 10
+2022-06-29 13:48:33.564 +0200	Contratos_Safety_Diposit.fmp12	0	scripts imported : 3
+2022-06-29 13:48:33.566 +0200	Contratos_Safety_Diposit.fmp12	0	Import completed
